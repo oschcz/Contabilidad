@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: oschcz/Contabilidad/tree/master/content/en
+  path: content/en
   label: contenido
   create: all
   match: "**/*"
