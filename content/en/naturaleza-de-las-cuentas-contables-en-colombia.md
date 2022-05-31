@@ -6,9 +6,7 @@ position: "1"
 category: []
 
 ---
-# Naturaleza de las cuentas contables
-
-Las cuentas contables **son una herramienta indispensable para que las empresas de cualquier tamaño puedan evaluar el estado de sus finanzas** **y tomar decisiones importantes**. En el presente artículo te contamos en qué consisten, cómo se clasifican y cuál es la manera adecuada de utilizarlas en la contabilidad de tu negocio.
+## Naturaleza de las cuentas contables
 
 ## ¿Qué son las cuentas contables?
 
