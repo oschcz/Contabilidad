@@ -20,7 +20,7 @@ En general, las cuentas contables **sirven para registrar cualquier movimiento e
 
 Registrar la información financiera en cuentas contables es muy importante para tu negocio, debido a que este registro **permite entender el por qué una cuenta aumenta o reduce su saldo**; con estos datos se construye un estado financiero de valor, que lleva a tomar las mejores decisiones frente a accionistas, inversionistas y dueños de la empresa.
 
-Partes que componen las cuentas contables
+## Partes que componen las cuentas contables
 
 * **Nombre de la cuenta:** en este espacio se diligencia el titular al que se refiere la cuenta que estamos registrando.
 * **Detalle del debe o débito:** se registra en el lado izquierdo de la cuenta e indica lo que entra a la empresa. Si la suma de los débitos es mayor a la de los créditos, se evidencia un saldo deudor en las cuentas contables.
