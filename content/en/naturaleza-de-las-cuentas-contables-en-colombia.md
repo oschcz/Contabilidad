@@ -8,7 +8,7 @@ category: []
 ---
 ## [Naturaleza de las cuentas contables]()
 
-![](https://c8.alamy.com/compes/2ehxpwy/consulta-de-auditoria-y-contabilidad-con-una-mujer-que-comprueba-un-documento-de-factura-y-una-calculadora-servicios-de-consultoria-de-negocios-y-contabilidad-cartoon-vecto-2ehxpwy.jpg)
+![ua imagen](https://c8.alamy.com/compes/2ehxpwy/consulta-de-auditoria-y-contabilidad-con-una-mujer-que-comprueba-un-documento-de-factura-y-una-calculadora-servicios-de-consultoria-de-negocios-y-contabilidad-cartoon-vecto-2ehxpwy.jpg "fsdfsdsdf")
 
 ## ¿Qué son las cuentas contables?
 
